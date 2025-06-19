@@ -1,5 +1,5 @@
 #include "add.h"
-
+#include <stdio.h>
 // add function modify for test
 int add(int x, int y)
 {
